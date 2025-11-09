@@ -23,7 +23,8 @@
 
 🚀 My academic journey and projects have allowed me to work with **JavaScript, TypeScript, React, Node.js, and Java**, gaining experience in both **frontend** and **backend** development.
 
-🧠 I’m also part of **IYALAB**, an academic research group focused on innovation and intelligent systems.
+🧠 I’m part of **IYALAB**, a *multimedia research group* focused on innovation, intelligent systems, and the intersection between technology and creativity.  
+Through this experience, I’ve developed skills in teamwork, leadership, and applied research.
 
 ---
 
