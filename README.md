@@ -1,12 +1,16 @@
-<!-- README Profile - Alfonso Miguel Hernández Guillén -->
-
-<h1 align="center">Hi 👋, I'm Alfonso Miguel Hernández Guillén</h1>
-<h3 align="center">💻 Informatics Engineer | Junior Web Developer | Data Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Alfonso Miguel Hernández Guillén</h1>
+<h3 align="center">💻 Informatics Engineer | Full Stack Developer | Data Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fnz-hdz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alfonsomg098@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/FonzHdz"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fnz-hdz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alfonsomg098@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/FonzHdz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -23,77 +27,103 @@
 
 ---
 
-### 🛠️ Technical Skills
+#
+### 🧠 Tech Stack
 
 #### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
 #### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+</p>
 
-#### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+#### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
 
 #### 📊 Data Science Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🧩 [HarmoniChat](https://github.com/FonzHdz/HarmoniChat-App)
-A **family-focused social network** designed to foster private and secure communication between relatives.  
-> Built with **React, TypeScript, Styled Components**, and **Socket.IO**, deployed on **Railway** with **Docker** and **GitHub Actions (CI/CD)**.  
-Includes real-time chat, emotion tracking, event organization, and family group management.
+#### 👨‍👩‍👧‍👦 [HarmoniChat](https://github.com/FonzHdz/HarmoniChat-ProyInformatico2)
+A **private family social network** that connects relatives through secure and emotional communication.  
+> Built with **React**, **TypeScript**, and **Socket.IO**, deployed with **Docker + GitHub Actions** on **Railway**.  
+Features real-time chat, emotion diary, and family management tools.
 
-#### 🎬 [CineWAO](https://github.com/FonzHdz/EDyA2)
-An online **movie ticket and concession platform** for multiple Colombian cities.  
-> Developed with **React, Vite, Tailwind CSS**, and **Firebase** for authentication, hosting, and data storage.  
-Features seat selection, payment simulation, and a full e-commerce experience.
+#### 🎬 [CineWAO](https://github.com/Xunni1e/CineWao-EDyA2)
+An interactive **cinema web platform** for browsing movies, premieres, and purchasing tickets online.  
+> Developed using **React + Vite + TailwindCSS**, integrated with **Firebase Authentication** and **Firestore**.
 
-#### 🏥 [4D Ultrasound Management System](https://github.com/FonzHdz/Proyecto-Informatico)
-An integrated **medical management system** for ultrasound clinics, supporting patient management, image processing (DICOM), and video conversion (AVI → MP4).  
-> Developed with **.NET 8**, **MongoDB**, and **Azure Blob Storage**.
+#### 🏥 [Ecografías 4D](https://github.com/FonzHdz/Ecografias4D-ProyInformatico)
+A **medical management app** for ultrasound centers — handles patients, appointments, and DICOM image/video processing.  
+> Powered by **.NET 8**, **MongoDB**, and **Azure Blob Storage**.
 
-#### 🛡️ [Insurance Policies System](https://github.com/FonzHdz/Proyecto-de-Ingenier-a-de-software-2)
-An **enterprise-grade microservices architecture** for managing insurance policies and payments.  
-> Built with **Spring Boot, Java 17, Spring Cloud, Eureka, Gateway**, and **OAuth2** authentication.  
-Includes integration with **MercadoPago** and Dockerized microservices.
+#### 🛡️ [Pólizas de Seguro](https://github.com/EstebanMaVi/Polizas-de-Seguros-IngSoftware2)
+A **microservices-based insurance system** with payment integration.  
+> Built with **Spring Boot**, **Java 17**, and **Spring Cloud**, featuring **OAuth2 authentication** and **MercadoPago SDK**.
 
 ---
 
-### 📚 Research & Academic Projects
+### 🎓 Academic & Research Highlights
 
 - 🧠 *“Intelligent Management of Hybrid Classrooms with a Virtual Assistant”* — presented at **RedCOLSI (National & Departmental Meetings, 2024)**  
-- 🤖 *“Machine Learning Applications in the Colombian Armed Conflict”* — showcased at **UAO’s Engineering Week 2023**
+- 🤖 *“Machine Learning Applications in the Colombian Armed Conflict”* — showcased during **UAO Engineering Week 2023**
 
 ---
 
-### 📫 Let's Connect!
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="mailto:alfonsomg098@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fnz-hdz/"><img src="https://img.shields.io/badge/LinkedIn-Alfonso%20Hern%C3%A1ndez-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/FonzHdz"><img src="https://img.shields.io/badge/GitHub-FonzHdz-181717?logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=FonzHdz&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FonzHdz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="mailto:alfonsomg098@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/fnz-hdz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/FonzHdz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
