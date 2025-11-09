@@ -81,7 +81,7 @@ Through this experience, I’ve developed skills in teamwork, leadership, and ap
 #### 👨‍👩‍👧‍👦 [HarmoniChat](https://github.com/FonzHdz/HarmoniChat-ProyInformatico2)
 A **private family social network** that connects relatives through secure and emotional communication.  
 > Built with **React**, **TypeScript**, and **Socket.IO**, deployed with **Docker + GitHub Actions** on **Railway**.  
-Features real-time chat, emotion diary, and family management tools.
+> Features real-time chat, emotion diary, and family management tools.
 > The backend is powered by **Spring Boot 3.4.3 + Java 21**, featuring **JWT authentication**, **WebSockets**, **Azure services**, and **AI integration with Google Gemini**.
 
 #### 🎬 [CineWAO](https://github.com/Xunni1e/CineWao-EDyA2)
