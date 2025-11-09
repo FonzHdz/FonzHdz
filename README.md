@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Alfonso Hernández</h1>
-<h3 align="center">💻 Informatics Engineer | Full Stack Developer | Data Enthusiast</h3>
+<h3 align="center">💻 Informatics Engineer | Junior Web Developer | Data Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fnz-hdz/" target="_blank">
