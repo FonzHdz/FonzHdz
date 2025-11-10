@@ -23,8 +23,10 @@
 
 🚀 My academic journey and projects have allowed me to work with **JavaScript, TypeScript, React, Node.js, and Java**, gaining experience in both **frontend** and **backend** development.
 
-🧠 I’m part of **IYALAB**, a *multimedia research group* focused on innovation, intelligent systems, and the intersection between technology and creativity.  
-Through this experience, I’ve developed skills in teamwork, leadership, and applied research.
+🧠 🧠 I’m part of **IYALAB**, a research seedbed in Multimedia Engineering at Universidad Autónoma de Occidente.
+There, we explore creative and experimental approaches to technology, developing solutions grounded in the local context through interactive design, multimedia systems, and critical analysis of real-world problems.
+
+This experience has strengthened my skills in exploration, teamwork, documentation, and applied research.
 
 ---
 
@@ -90,7 +92,7 @@ An interactive **cinema web platform** for browsing movies, premieres, and purch
 
 #### 🏥 [Ecografías 4D](https://github.com/FonzHdz/Ecografias4D-ProyInformatico)
 A **medical management app** for ultrasound centers — handles patients, appointments, and DICOM image/video processing.  
-> Powered by **.NET 8**, **MongoDB**, and **Azure Blob Storage**.
+> Backend developed using **C# (.NET 8)**, integrated with **MongoDB**, **Azure Blob Storage**, and **DICOM** tools.
 
 #### 🛡️ [Pólizas de Seguro](https://github.com/EstebanMaVi/Polizas-de-Seguros-IngSoftware2)
 A **microservices-based insurance system** with payment integration.  
